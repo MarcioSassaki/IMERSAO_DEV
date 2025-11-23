@@ -1,0 +1,88 @@
+[
+    {
+    "imagem" : "imgfacebook.jpg",
+    "nome" : "Facebook",
+    "descrição" : "Este é o Facebok, aplicativo de compatilhamentos de conteúdo entre pessoas.",
+    "link" : "https://www.facebook.com/"   
+},
+{
+    "imagem" : "imginstagram.jpg",
+    "nome" : "Instagram",
+    "descrição" : "Este é o Instagram, aplicativo de compatilhamentos de fotos e videos entre pessoas.",
+    "link" : "https://www.instagram.com/?hl=pt-br"   
+},
+{
+    "imagem" : "imgtiktok.jpg",
+    "nome": "TikTok",
+    "descrição": "É uma plataforma de mídia social para criar, compartilhar e descobrir vídeos curtos.",
+    "link": "https://www.tiktok.com/"
+},
+{
+    "imagem" : "imglinkedin.jpg",
+    "nome": "LinkedIn",
+    "descrição": "É uma rede social de negócios, usada principalmente para networking profissional e desenvolvimento de carreira.",
+    "link": "https://www.linkedin.com/"
+},
+{
+    "imagem" : "imgwhatsapp.png",
+    "nome": "WhatsApp Web",
+    "descrição": "É um aplicativo de mensagens gratuito que permite aos usuários enviar mensagens de texto e de voz, fazer chamadas de voz e vídeo e compartilhar imagens, documentos, localizações de usuários e outros conteúdos.",
+    "link": "https://www.whatsapp.com/"
+},
+{
+    "imagem" : "imgyoutube.jpg",
+    "nome": "YouTube",
+    "descrição": "É uma plataforma de compartilhamento de vídeos online onde os usuários podem assistir, criar e compartilhar vídeos.",
+    "link": "https://www.youtube.com/"
+},
+{
+    "imagem" : "imgx.jpg",
+    "nome": "X (antigo Twitter)",
+    "descrição": "É um serviço de microblogging e rede social online no qual os usuários postam e interagem com mensagens conhecidas como 'tweets'.",
+    "link": "https://twitter.com/"
+},
+{
+    "imagem" : "imgnetflix.png",
+    "nome": "Netflix",
+    "descrição": "É um serviço de streaming por assinatura que permite assistir a séries e filmes em um aparelho conectado à internet.",
+    "link": "https://www.netflix.com/"
+},
+{
+    "imagem" : "imgalura.jpg",
+    "nome": "Alura",
+    "descrição": "É a maior escola online de educação tech do Brasil, oferecendo cursos em áreas como Programação, Front-End, DevOps, Mobile, e mais.",
+    "link": "https://www.alura.com.br/"
+},
+{
+    "imagem" : "imgmercadolivre.png",
+    "nome": "Mercado Livre",
+    "descrição": "É uma empresa de tecnologia que oferece soluções de comércio eletrônico para que pessoas e empresas possam comprar, vender, pagar e enviar produtos pela internet.",
+    "link": "https://www.mercadolivre.com.br/"
+},
+{
+    "imagem" : "imgshopee.jpg",
+    "nome": "Shopee",
+    "descrição": "É uma plataforma de comércio eletrônico de Singapura que opera principalmente no Sudeste Asiático, mas também no Brasil, permitindo a compra e venda de uma vasta gama de produtos.",
+    "link": "https://shopee.com.br/"
+},
+{
+    "imagem" : "imgamazon.jpg",
+    "nome": "Amazon",
+    "descrição": "É uma empresa multinacional de tecnologia focada em e-commerce, computação em nuvem, streaming e inteligência artificial.",
+    "link": "https://www.amazon.com.br/"
+},
+{
+    "imagem" : "imgaliexpress.png",
+    "nome": "AliExpress",
+    "descrição": "É um serviço de varejo online do grupo chinês Alibaba, que permite a pequenas empresas na China venderem para clientes em todo o mundo.",
+    "link": "https://pt.aliexpress.com/"
+},
+{
+    "imagem" : "imgshein.png",
+    "nome": "Shein",
+    "descrição": "É uma varejista chinesa de fast fashion online, conhecida por seu vestuário com preços acessíveis e foco no público jovem.",
+    "link": "https://br.shein.com/"
+}
+
+
+]

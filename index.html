@@ -1,0 +1,59 @@
+<!-- Define o tipo de documento como HTML5 -->
+<!DOCTYPE html>
+<!-- A tag raiz do documento, com o idioma definido como português do Brasil -->
+<html lang="pt-br">
+<head>
+    <!-- Define o conjunto de caracteres como UTF-8 para suportar acentos e caracteres especiais -->
+    <meta charset="UTF-8">
+    <!-- Configura a viewport para que o site seja responsivo em dispositivos móveis -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- O título que aparece na aba do navegador -->
+    <title>Atalhos</title>
+
+    <style>
+        img{
+            width: 60px;  
+            height: 60px;
+        }
+        
+    </style>
+    <!-- Link para a folha de estilos CSS externa -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Cabeçalho da página -->
+    <header>
+        <!-- Título principal da página -->
+        <h1>ATALHO DE APLICATIVOS</h1>
+        <!-- Div para agrupar os elementos de busca -->
+        <div>
+            <!-- Campo de texto para o usuário digitar o termo de busca -->
+            <input type="text" placeholder="Digite qual aplicativo deseja usar">
+            <!-- Botão que, ao ser clicado, chama a função JavaScript 'iniciarBusca()' -->
+            <button id="botao-busca" type="button" onclick="iniciarBusca()" >Buscar</button>
+        </div>
+    </header>
+
+    <!-- Conteúdo principal da página -->
+    <main>
+         <!-- Seção onde os cartões dos aplicativos serão inseridos dinamicamente pelo JavaScript -->
+         <section class="card-container">
+        <!-- O conteúdo desta seção é gerado pelo script.js. O código comentado abaixo é um exemplo de como um cartão é estruturado. -->
+        </section>
+    </main>
+
+    <!-- Rodapé da página -->
+    <footer class="footer">
+        <ul class="footer-links">
+            <li>
+                <a href="https://www.instagram.com/japasassaki?igsh=NWw0a2p2emZ5bnUz&utm_source=qr">Instagram</a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/marcio-cheban-sassaki-2ba80934b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linked In</a>
+            </li>
+        </ul>
+    </footer>
+    <!-- Inclui o arquivo JavaScript no final do corpo do documento para garantir que o HTML seja carregado antes do script -->
+    <script src="script.js"></script>
+</body>
+</html>
